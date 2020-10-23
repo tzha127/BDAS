@@ -1,2 +1,1 @@
-I configured pyspark locally because of the network. Later, when I uploaded it to the cloud, because the data was too large, it would crash every time I used it. After many days, I didn’t get it right. I ran the code and screenshots in local system. Paste in the file.
-These package servers are not available：sklearn plotly.express seaborn
+I tried to connect to the server many times because of the network, and because the file was too big, it would crash every time I run it on the server. So I configured the environment to run locally, I compressed them into a package, there are data sets, ipynb files, and generated html files to view the results of the operation.
